@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘四法經
+#+DATE: 2015-08-30 20:20:29.102610
+#+PROPERTY: JUAN 0
