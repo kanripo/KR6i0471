@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:28.877873
+#+DATE: 2015-08-30 20:20:30.147855
 #+TITLE: 大乘四法經
 #+PROPERTY: CBETA_ID T17n0774
 #+PROPERTY: ID KR6i0471
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 774
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0471_T_000-0709a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0471_T_001-0709a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.774¶
-
- 《大乘四法經》¶
+No. 774¶
+《大乘四法經》¶
 ¶
 于闐國三藏法師實叉難陀¶
 奉　制譯¶
