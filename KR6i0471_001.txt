@@ -1,29 +1,28 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:28.877873
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:42
 #+TITLE: 大乘四法經
 #+PROPERTY: CBETA_ID T17n0774
 #+PROPERTY: ID KR6i0471
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 774
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0471_T_000-0709a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0471_T_001-0709a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.774¶
-
- 《大乘四法經》¶
+No. 774¶
+《大乘四法經》¶
 ¶
 于闐國三藏法師實叉難陀¶
 奉　制譯¶
 
 #+BEGIN_VERSE
 「　歸命大智海，
-　毘盧遮那佛。
+　毘盧遮那佛。」
 #+END_VERSE
-」¶
+¶
 
 如是我聞：
 
@@ -329,9 +328,9 @@ No.774¶
 　竭涸生死流，
 　斷絕愚癡網，¶
 　善哉大智者，
-　願說微笑義。」
+　願說微笑義。」」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊告善勝天子言：「汝見虛空蓮花座¶
 上諸菩薩不？」
